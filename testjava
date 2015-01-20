@@ -8,7 +8,7 @@
 <body>
   <p id="test"></p>
   <script>
-    document.getElementById("test").innerHTML = "HELLO JAVA TEST !!!";
+    document.getElementById("test").innerHTML = "HELLO JAVA TEST <3 <3 !!!";
   </script>
 </body>
 </html>
