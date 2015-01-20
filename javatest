@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en>
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="#" />
+  <title>JAVA TEST</title>
+</head>
+<body>
+  <p id="test"></p>
+  <script>
+    document.getElementById("test").innerHTML = "HELLO JAVA TEST !!!";
+  </script>
+</body>
+</html>
